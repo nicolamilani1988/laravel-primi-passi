@@ -50,11 +50,9 @@ html, body {
 }
 
 // MY STYLE
-.content{
+.my-class>h2{
+    color: blue;
     background-color: aqua;
-    .my-class>h2{
-        color: pink;
-    }
 }
 
 .red-text{
